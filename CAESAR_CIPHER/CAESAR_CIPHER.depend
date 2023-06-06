@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1686076103 source:c:\users\marce\documents\c_programming\caesar_cipher\ceaser_cipher.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
