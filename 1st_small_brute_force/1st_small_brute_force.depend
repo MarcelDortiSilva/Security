@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686168898 source:c:\users\marce\documents\c_programming\1st_small_brute_force\first_soft_force.c
+	<stdio.h>
+	<string.h>
+
